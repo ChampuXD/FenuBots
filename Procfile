@@ -1,1 +1,1 @@
-worker: python3 main.py
+BotzHub: python bot.py

@@ -1,5 +1,3 @@
-pyrogram
-tgcrypto
+python-decouple
 pytz
-python-dotenv
-asyncio
+telethon
