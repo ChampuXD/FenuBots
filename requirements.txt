@@ -1,5 +1,3 @@
 pyrogram
 tgcrypto
-pytz
-python-dotenv
-asyncio
+pytz==2021.3
